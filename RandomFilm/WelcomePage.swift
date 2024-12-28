@@ -1,8 +1,8 @@
 //
 //  WelcomePage.swift
-//  QuinPrototype2
+//  RandomFilm
 //
-//  Created by Quin Perkins on 11/18/24.
+//  Created by Quin Perkins on 12/28/24.
 //
 
 import SwiftUI
